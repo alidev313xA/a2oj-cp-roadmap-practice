@@ -1,4 +1,5 @@
 // https://codeforces.com/problemset/problem/69/A
+// Tip: check if sum of all vectors is zero. 
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -17,6 +18,9 @@ void solve(int n) {
 }
 
 int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    // above these 2 lines are added for the faster input 
     int n;
     cin >> n;
     solve(n);
