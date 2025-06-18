@@ -16,26 +16,13 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | # | Problem Name   | Link                                                         | Solution                              |
 |---|----------------|--------------------------------------------------------------|---------------------------------------|
 | 1 | Young Physicist  | [CF69A](https://codeforces.com/problemset/problem/69/A)   | ✅ [View](rating-<1300>/1_YoungPhysicist_CF69A.cpp)   |
-| 2 | Watermelon     | [CF4A](https://codeforces.com/problemset/problem/4/A)       | ✅ [View](./2_Watermelon_CF4A.cpp)    |
-| 3 | Pet            | [CF265A](https://codeforces.com/problemset/problem/265/A)   | ✅ [View](./3_Pet_CF265A.cpp)         |
+| 2 | Beautiful Matrix     | [CF4A](https://codeforces.com/problemset/problem/263/A)       | ✅ [View](rating-<1300>/2_BeautifulMatrix_CF263A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
-
-### 🔹 Codeforces Rating 1300-1399
-
-| # | Problem Name   | Link                                                         | Solution                              |
-|---|----------------|--------------------------------------------------------------|---------------------------------------|
-| 1 | Problem Title  | [CFXXX](https://codeforces.com/problemset/problem/XXX)      | ✅ [View](./folder/file.cpp)          |
-| 2 | …              | …                                                            | …                                     |
+I will add the problems of other ratings and their solutions soon. 
 
 ---
-
-### 🔹 Codeforces Rating 1300-1399
-### 🔹 Codeforces Rating 1300-1399
-### 🔹 Codeforces Rating 1300-1399
-### 🔹 Codeforces Rating 1300-1399
-
 ## 🧠 Goal
 
 - ✅ Solve all problems in the A2OJ Ladder (Rating < 1300)
