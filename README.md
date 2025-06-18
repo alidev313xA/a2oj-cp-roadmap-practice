@@ -15,7 +15,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 
 | # | Problem Name   | Link                                                         | Solution                              |
 |---|----------------|--------------------------------------------------------------|---------------------------------------|
-| 1 | Young Physicist  | [CF69A](https://codeforces.com/problemset/problem/69/A)   | ✅ [View](./rating-<1300>/1_YoungPhysicist_CF69A.cpp)   |
+| 1 | Young Physicist  | [CF69A](https://codeforces.com/problemset/problem/69/A)   | ✅ [View](./rating-<1300>/1_Young Physicist_CF69A.cpp)   |
 | 2 | Watermelon     | [CF4A](https://codeforces.com/problemset/problem/4/A)       | ✅ [View](./2_Watermelon_CF4A.cpp)    |
 | 3 | Pet            | [CF265A](https://codeforces.com/problemset/problem/265/A)   | ✅ [View](./3_Pet_CF265A.cpp)         |
 | … | …              | …                                                            | …                                     |
