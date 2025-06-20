@@ -20,6 +20,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 3 | Queue At School     | [CF266B](https://codeforces.com/problemset/problem/266/B)       | ✅ [View](rating-<1300>/3_QueueAtSchool_CF266B.cpp)    |
 | 4 | Borze     | [CF32B](https://codeforces.com/problemset/problem/32/B)       | ✅ [View](rating-<1300>/4_Borze_CF32B.cpp)    |
 | 5 | Beautiful Year     | [CF271A](https://codeforces.com/problemset/problem/271/A)       | ✅ [View](rating-<1300>/5_BeautifulYear_CF271A.cpp)    |
+| 5 | Lights Out | [CF271A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/6_LightsOut_CF275A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
