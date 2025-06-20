@@ -24,6 +24,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 7 | Word | [CF59A](https://codeforces.com/problemset/problem/59/A)       | ✅ [View](rating-<1300>/7_Word_CF59A.cpp)    |
 | 8 | Word Capitalization | [CF281A](https://codeforces.com/problemset/problem/281/A)       | ✅ [View](rating-<1300>/8_WordCapitalization_CF281A.cpp)    |
 | 9 | Nearly Lucky Number | [CF275A](https://codeforces.com/problemset/problem/110/A)       | ✅ [View](rating-<1300>/9_NearlyLuckyNumber_CF110A.cpp)    |
+| 10 | Stones on the Table | [CF266A](https://codeforces.com/problemset/problem/266/A)       | ✅ [View](rating-<1300>/10_StonesOnTheTable_CF266A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
