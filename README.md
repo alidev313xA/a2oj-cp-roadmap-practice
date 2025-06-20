@@ -22,8 +22,8 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 5 | Beautiful Year     | [CF271A](https://codeforces.com/problemset/problem/271/A)       | ✅ [View](rating-<1300>/5_BeautifulYear_CF271A.cpp)    |
 | 6 | Lights Out | [CF275A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/6_LightsOut_CF275A.cpp)    |
 | 7 | Word | [CF59A](https://codeforces.com/problemset/problem/59/A)       | ✅ [View](rating-<1300>/7_Word_CF59A.cpp)    |
-| 8 | Lights Out | [CF275A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/8_WordCapitalization_CF281A.cpp)    |
-| 9 | Lights Out | [CF275A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/9_NearlyLuckyNumber_CF110A.cpp)    |
+| 8 | Word Capitalization | [CF281A](https://codeforces.com/problemset/problem/281/A)       | ✅ [View](rating-<1300>/8_WordCapitalization_CF281A.cpp)    |
+| 9 | Nearly Lucky Number | [CF275A](https://codeforces.com/problemset/problem/110/A)       | ✅ [View](rating-<1300>/9_NearlyLuckyNumber_CF110A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
