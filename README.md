@@ -21,6 +21,9 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 4 | Borze     | [CF32B](https://codeforces.com/problemset/problem/32/B)       | ✅ [View](rating-<1300>/4_Borze_CF32B.cpp)    |
 | 5 | Beautiful Year     | [CF271A](https://codeforces.com/problemset/problem/271/A)       | ✅ [View](rating-<1300>/5_BeautifulYear_CF271A.cpp)    |
 | 6 | Lights Out | [CF275A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/6_LightsOut_CF275A.cpp)    |
+| 7 | Word | [CF59A](https://codeforces.com/problemset/problem/59/A)       | ✅ [View](rating-<1300>/7_Word_CF59A.cpp)    |
+| 8 | Lights Out | [CF275A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/8_WordCapitalization_CF281A.cpp)    |
+| 9 | Lights Out | [CF275A](https://codeforces.com/problemset/problem/275/A)       | ✅ [View](rating-<1300>/9_NearlyLuckyNumber_CF110A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
