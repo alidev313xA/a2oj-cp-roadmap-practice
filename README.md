@@ -26,6 +26,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 9 | Nearly Lucky Number | [CF275A](https://codeforces.com/problemset/problem/110/A)       | ✅ [View](rating-<1300>/9_NearlyLuckyNumber_CF110A.cpp)    |
 | 10 | Stones on the Table | [CF266A](https://codeforces.com/problemset/problem/266/A)       | ✅ [View](rating-<1300>/10_StonesOnTheTable_CF266A.cpp)    |
 | 11 | Panoramix's Prediction | [CF80A](https://codeforces.com/problemset/problem/80/A)       | ✅ [View](rating-<1300>/11_CF80A.cpp)    |
+| 12 | Perfect Permutation | [CF80A](https://codeforces.com/problemset/problem/233/A)       | ✅ [View](rating-<1300>/12_CF233A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
