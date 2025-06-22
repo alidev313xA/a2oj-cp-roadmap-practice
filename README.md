@@ -27,6 +27,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 10 | Stones on the Table | [CF266A](https://codeforces.com/problemset/problem/266/A)       | ✅ [View](rating-<1300>/10_StonesOnTheTable_CF266A.cpp)    |
 | 11 | Panoramix's Prediction | [CF80A](https://codeforces.com/problemset/problem/80/A)       | ✅ [View](rating-<1300>/11_CF80A.cpp)    |
 | 12 | Perfect Permutation | [CF233A](https://codeforces.com/problemset/problem/233/A)       | ✅ [View](rating-<1300>/12_CF233A.cpp)    |
+| 13 | Arrival of  General | [CF144A](https://codeforces.com/problemset/problem/144A/A)       | ✅ [View](rating-<1300>/13_CF144A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
