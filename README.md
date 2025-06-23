@@ -28,6 +28,8 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 11 | Panoramix's Prediction | [CF80A](https://codeforces.com/problemset/problem/80/A)       | ✅ [View](rating-<1300>/11_CF80A.cpp)    |
 | 12 | Perfect Permutation | [CF233A](https://codeforces.com/problemset/problem/233/A)       | ✅ [View](rating-<1300>/12_CF233A.cpp)    |
 | 13 | Arrival of  General | [CF144A](https://codeforces.com/problemset/problem/144/A)       | ✅ [View](rating-<1300>/13_CF144A.cpp)    |
+| 14 | Drinks | [CF200B](https://codeforces.com/problemset/problem/200/B)       | ✅ [View](rating-<1300>/14_CF200B.cpp)    |
+| 15 | Insomnia Cure | [CF148A](https://codeforces.com/problemset/problem/148/A)       | ✅ [View](rating-<1300>/15_CF148A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
