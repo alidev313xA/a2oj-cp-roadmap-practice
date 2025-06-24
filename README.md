@@ -30,6 +30,8 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 13 | Arrival of  General | [CF144A](https://codeforces.com/problemset/problem/144/A)       | ✅ [View](rating-<1300>/13_CF144A.cpp)    |
 | 14 | Drinks | [CF200B](https://codeforces.com/problemset/problem/200/B)       | ✅ [View](rating-<1300>/14_CF200B.cpp)    |
 | 15 | Insomnia Cure | [CF148A](https://codeforces.com/problemset/problem/148/A)       | ✅ [View](rating-<1300>/15_CF148A.cpp)    |
+| 16 | Cupboards  | [CF248A](https://codeforces.com/problemset/problem/248/A)       | ✅ [View](rating-<1300>/16_CF248A.cpp)    |
+| 17 | I_love_%username% | [CF155A](https://codeforces.com/problemset/problem/155/A)       | ✅ [View](rating-<1300>/17_CF155A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
