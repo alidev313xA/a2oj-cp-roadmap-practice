@@ -32,6 +32,11 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 15 | Insomnia Cure | [CF148A](https://codeforces.com/problemset/problem/148/A)       | ✅ [View](rating-<1300>/15_CF148A.cpp)    |
 | 16 | Cupboards  | [CF248A](https://codeforces.com/problemset/problem/248/A)       | ✅ [View](rating-<1300>/16_CF248A.cpp)    |
 | 17 | I_love_%username% | [CF155A](https://codeforces.com/problemset/problem/155/A)       | ✅ [View](rating-<1300>/17_CF155A.cpp)    |
+| 18 | Tram | [CF116A](https://codeforces.com/problemset/problem/116/A)       | ✅ [View](rating-<1300>/18_CF116A.cpp)    |
+| 19 | Helpful Maths | [CF339A](https://codeforces.com/problemset/problem/339/A)       | ✅ [View](rating-<1300>/19_CF339A.cpp)    |
+| 20 | Is your horseshoe on the other hoof? | [CF228A](https://codeforces.com/problemset/problem/228/A)       | ✅ [View](rating-<1300>/20_CF228A.cpp)    |
+| 21 |Way Too Long Words| [CF71A](https://codeforces.com/problemset/problem/71/A)       | ✅ [View](rating-<1300>/21_CF71A.cpp)    |
+| 22 |Boy or Girl | [CF236A](https://codeforces.com/problemset/problem/236/A)       | ✅ [View](rating-<1300>/22_CF236A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
