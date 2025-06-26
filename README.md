@@ -37,6 +37,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 20 | Is your horseshoe on the other hoof? | [CF228A](https://codeforces.com/problemset/problem/228/A)       | ✅ [View](rating-<1300>/20_CF228A.cpp)    |
 | 21 |Way Too Long Words| [CF71A](https://codeforces.com/problemset/problem/71/A)       | ✅ [View](rating-<1300>/21_CF71A.cpp)    |
 | 22 |Boy or Girl | [CF236A](https://codeforces.com/problemset/problem/236/A)       | ✅ [View](rating-<1300>/22_CF236A.cpp)    |
+| 23 |Amusing Joke| [CF141A](https://codeforces.com/problemset/problem/141/A)       | ✅ [View](rating-<1300>/23_CF141A.cpp)    |
 | … | …              | …                                                            | …                                     |
 
 ---
