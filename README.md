@@ -38,6 +38,9 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 21 |Way Too Long Words| [CF71A](https://codeforces.com/problemset/problem/71/A)       | ✅ [View](rating-<1300>/21_CF71A.cpp)    |
 | 22 |Boy or Girl | [CF236A](https://codeforces.com/problemset/problem/236/A)       | ✅ [View](rating-<1300>/22_CF236A.cpp)    |
 | 23 |Amusing Joke| [CF141A](https://codeforces.com/problemset/problem/141/A)       | ✅ [View](rating-<1300>/23_CF141A.cpp)    |
+| 24 |Soft Drinking| [CF151A](https://codeforces.com/problemset/problem/151/A)       | ✅ [View](rating-<1300>/24_CF151A.cpp)    |
+| 25 |HQ9+| [CF133A](https://codeforces.com/problemset/problem/133/A)       | ✅ [View](rating-<1300>/25_CF133A.cpp)    |
+| 26 |Petya and Strings| [CF112A](https://codeforces.com/problemset/problem/112/A)       | ✅ [View](rating-<1300>/26_CF112A.cpp)   |
 | … | …              | …                                                            | …                                     |
 
 ---
