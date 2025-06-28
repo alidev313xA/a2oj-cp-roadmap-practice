@@ -41,6 +41,11 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 24 |Soft Drinking| [CF151A](https://codeforces.com/problemset/problem/151/A)       | ✅ [View](rating-<1300>/24_CF151A.cpp)    |
 | 25 |HQ9+| [CF133A](https://codeforces.com/problemset/problem/133/A)       | ✅ [View](rating-<1300>/25_CF133A.cpp)    |
 | 26 |Petya and Strings| [CF112A](https://codeforces.com/problemset/problem/112/A)       | ✅ [View](rating-<1300>/26_CF112A.cpp)   |
+| 27 |Team| [CF112A](https://codeforces.com/problemset/problem/231/A)       | ✅ [View](rating-<1300>/27_CF231A.cpp)   |
+| 28 |Bit++| [CF282A](https://codeforces.com/problemset/problem/282/A)       | ✅ [View](rating-<1300>/28_CF282A.cpp)   |
+| 29 |Effective Approach | [CF227B](https://codeforces.com/problemset/problem/227/B)       | ✅ [View](rating-<1300>/29_CF227B.cpp)   |
+| 30 |Dima and Friends | [CF272A](https://codeforces.com/problemset/problem/272/A)       | ✅ [View](rating-<1300>/30_CF272A.cpp)   |
+| 31 | Jzzhu and Children | [CF450A](https://codeforces.com/problemset/problem/450/A)       | ✅ [View](rating-<1300>/31_CF450A.cpp)   |
 | … | …              | …                                                            | …                                     |
 
 ---
