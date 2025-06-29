@@ -46,6 +46,8 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 29 |Effective Approach | [CF227B](https://codeforces.com/problemset/problem/227/B)       | ✅ [View](rating-<1300>/29_CF227B.cpp)   |
 | 30 |Dima and Friends | [CF272A](https://codeforces.com/problemset/problem/272/A)       | ✅ [View](rating-<1300>/30_CF272A.cpp)   |
 | 31 | Jzzhu and Children | [CF450A](https://codeforces.com/problemset/problem/450/A)       | ✅ [View](rating-<1300>/31_CF450A.cpp)   |
+| 32 | Supercentral Point | [CF165A](https://codeforces.com/problemset/problem/165/A)       | ✅ [View](rating-<1300>/32_CF165A.cpp)   |
+| 33 | Petr and Book | [CF139A](https://codeforces.com/problemset/problem/139/A)       | ✅ [View](rating-<1300>/33_CF1390A.cpp)   |
 | … | …              | …                                                            | …                                     |
 
 ---
