@@ -48,6 +48,7 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 31 | Jzzhu and Children | [CF450A](https://codeforces.com/problemset/problem/450/A)       | ✅ [View](rating-<1300>/31_CF450A.cpp)   |
 | 32 | Supercentral Point | [CF165A](https://codeforces.com/problemset/problem/165/A)       | ✅ [View](rating-<1300>/32_CF165A.cpp)   |
 | 33 | Petr and Book | [CF139A](https://codeforces.com/problemset/problem/139/A)       | ✅ [View](rating-<1300>/33_CF139A.cpp)   |
+| 34 |  Reconnaissance 2 | [CF34A](https://codeforces.com/problemset/problem/34/A)       | ✅ [View](rating-<1300>/34_CF34A.cpp)   |
 | … | …              | …                                                            | …                                     |
 
 ---
