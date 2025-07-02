@@ -52,7 +52,6 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 35 | Even Odds| [CF318A](https://codeforces.com/problemset/problem/318/A)       | ✅ [View](rating-<1300>/35_CF318A.cpp)   |
 | 36 | Little Elephant and Rozdil| [CF205A](https://codeforces.com/problemset/problem/205/A)       | ✅ [View](rating-<1300>/36_CF205A.cpp)   |
 | 37 | Hexadecimal's theorem | [CF199A](https://codeforces.com/problemset/problem/199/A)       | ✅ [View](rating-<1300>/37_CF199A.cpp)   |
-
 | … | …              | …                                                            | …                                     |
 
 ---
