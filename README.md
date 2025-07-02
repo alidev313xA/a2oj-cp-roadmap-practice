@@ -49,6 +49,10 @@ I’m solving problems in **increasing order of difficulty**, tracking my soluti
 | 32 | Supercentral Point | [CF165A](https://codeforces.com/problemset/problem/165/A)       | ✅ [View](rating-<1300>/32_CF165A.cpp)   |
 | 33 | Petr and Book | [CF139A](https://codeforces.com/problemset/problem/139/A)       | ✅ [View](rating-<1300>/33_CF139A.cpp)   |
 | 34 |  Reconnaissance 2 | [CF34A](https://codeforces.com/problemset/problem/34/A)       | ✅ [View](rating-<1300>/34_CF34A.cpp)   |
+| 35 | Even Odds| [CF318A](https://codeforces.com/problemset/problem/318/A)       | ✅ [View](rating-<1300>/35_CF318A.cpp)   |
+| 36 | Little Elephant and Rozdil| [CF205A](https://codeforces.com/problemset/problem/205/A)       | ✅ [View](rating-<1300>/36_CF205A.cpp)   |
+| 37 | Hexadecimal's theorem | [CF199A](https://codeforces.com/problemset/problem/199/A)       | ✅ [View](rating-<1300>/37_CF199A.cpp)   |
+
 | … | …              | …                                                            | …                                     |
 
 ---
